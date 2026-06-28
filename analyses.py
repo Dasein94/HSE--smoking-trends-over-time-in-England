@@ -15,7 +15,7 @@ import missingno as msno
 
 df99 = pd.read_stata("HSE_1999.dta", convert_categoricals=False)
 df19 = pd.read_stata("HSE_2019.dta", convert_categoricals=False)
-print("aqui")
+
 print(df99.shape)
 print(df19.shape)
 # -----------------------------
