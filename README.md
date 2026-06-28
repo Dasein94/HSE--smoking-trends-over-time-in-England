@@ -33,9 +33,9 @@ Case study/
     ├── requirements.txt
     ├── .gitignore
     ├── figures/
-    │   ├── df19 bars.png
-    │   ├── df19 matrix.png
-    │   ├── df99 bars.png
+        ├── df19 bars.png
+        ├── df19 matrix.png
+        ├── df99 bars.png
         ├── df99 matrix.png
         ├── smk boxplot final.png
         ├── smk prev final.png
