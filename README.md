@@ -3,7 +3,7 @@
 ## Overview
 This project analyses changes in smoking behaviour in England between 1999 and 2019 using HSE datasets (study number 4365 (1999 wave, 10259 x 1699), and the study number 8860 (2019 wave, 10299 x 1841)).  
 
-The **goal** is to explore trends in cigarette smoking status prevalence and cigarette quantity/day over time taking intro consideration sample weights.
+The **goal** is to explore trends in cigarette smoking status (smokers versus non - smokers), and cigarette quantity smoked in 1999 and 2019, taking into consideration sample weights.
 
 This work was completed as part of a group data analysis project, using colab. However, what it is shared here is my individual contribution in the project.
 
